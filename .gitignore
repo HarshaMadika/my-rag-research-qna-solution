@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+venv/
+
+# Models / Index
+faiss.index
+metadata.json
+
+# Large folders
+data/
+chroma_db/
+frontend/
+
+# OS
+.DS_Store
