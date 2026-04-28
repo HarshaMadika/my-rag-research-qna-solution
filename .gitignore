@@ -13,7 +13,13 @@ metadata.json
 # Large folders
 data/
 chroma_db/
-frontend/
 
 # OS
 .DS_Store
+# Flutter frontend
+frontend/build/
+frontend/.dart_tool/
+frontend/.idea/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
